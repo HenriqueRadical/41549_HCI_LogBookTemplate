@@ -2,11 +2,17 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Evaluator**: Maria-Aleksandra Korjenevskaya
+**Date**: 25-02-2025
+**Product**: Aplicação Seven
 
-Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
+Severity Scale adopted: 
+• 0 - I don't agree that this is a usability problem at all; 
+• 1 - Cosmetic problem;
+• 2 - Minor usability problem;
+• 3 - Major usability problem;
+• 4 - Usability catastrophe.
+
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
 # 1 Visibility of System Status
