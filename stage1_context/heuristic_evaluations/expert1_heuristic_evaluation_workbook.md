@@ -4,7 +4,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 
 **Evaluator**: Maria-Aleksandra Korjenevskaya
 **Date**: 25-02-2025
-**Product**: Application Seven
+**Product**: Application Seven (portuguese version)
 
 Severity Scale adopted: 
 • 0 - I don't agree that this is a usability problem at all; 
@@ -32,8 +32,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+|The names and instructions of some exercises differ in Brazilian Portuguese and European Portuguese| 3            |Review exercise descriptions with native speakers and consider adaptations for European Portuguese            |
+
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
