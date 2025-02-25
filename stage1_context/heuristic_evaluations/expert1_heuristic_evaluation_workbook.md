@@ -4,7 +4,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 
 **Evaluator**: Maria-Aleksandra Korjenevskaya
 **Date**: 25-02-2025
-**Product**: Aplication Seven
+**Product**: Application Seven
 
 Severity Scale adopted: 
 • 0 - I don't agree that this is a usability problem at all; 
