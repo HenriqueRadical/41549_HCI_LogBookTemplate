@@ -44,7 +44,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| It is unclear how to change the app's language or if it is even possible. | 3            | Add a clear language change option in the settings and an explanatory element in the interface.               |
 | Another thing   | 4            |                |
 
 # 4 Consistency and Standards
