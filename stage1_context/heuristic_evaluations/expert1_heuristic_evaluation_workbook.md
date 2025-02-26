@@ -61,8 +61,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| | 2           |                |
-| Another thing   | 4            |                |
+|There is no confirmation step before starting a workout, which may lead to accidentally starting the wrong workout. | 1          |Add a confirmation step before starting the workout so that users can ensure they have selected the correct one.                |
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
