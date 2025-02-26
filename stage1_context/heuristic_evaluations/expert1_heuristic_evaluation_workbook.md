@@ -22,8 +22,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| It was unclear why a workout started downloading a few days after installing the app.| 3            | Add a notification or explanatory message before the download starts, clarifying the reason (e.g., workout program update, automatic synchronization, etc.).               |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
