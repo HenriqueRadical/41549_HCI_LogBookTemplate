@@ -44,7 +44,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | It is unclear how to change the app's language or if it is even possible. | 3            | Add a clear language change option in the settings and an explanatory element in the interface.               |
-| Another thing   | 4            |                |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -53,8 +52,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+|On the workout page, the most important information (the workout itself) is placed after additional content, which violates common navigation standards, as users expect the main content to be positioned at the top of the page. | 3            | Move the workout section to the top of the page to follow common interface standards, improving navigation and making it easier for users to find the main content.               |
+
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
 >	- Does the design prevent slips by using helpful constraints? 
