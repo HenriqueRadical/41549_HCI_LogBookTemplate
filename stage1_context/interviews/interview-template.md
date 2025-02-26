@@ -1,10 +1,8 @@
-# Informal User Interview Notes 
-
-> 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
+# Informal User Interview Notes
 
 ## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
+- **Date:** [26-02-2025] 
+- **Interviewer:** [Maria-Aleksandra Korjenevskaya] 
 - **Participant:** [Optional: Anonymous or Role] 
 - **Context:** [Where and how the interview was conducted] 
 
