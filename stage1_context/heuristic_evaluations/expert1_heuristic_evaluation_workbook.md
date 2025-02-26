@@ -109,5 +109,5 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|here are no tips for beginners.| 2           |Introduce a tutorial mode upon first use.                |
+|There are no tips for beginners.| 2           |Introduce a tutorial mode upon first use              |
 | Another thing   | 4            |                |
