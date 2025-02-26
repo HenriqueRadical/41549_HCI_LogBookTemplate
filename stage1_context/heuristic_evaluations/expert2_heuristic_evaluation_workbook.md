@@ -32,7 +32,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | User may not be familiar with terms such as "Core", or may not be able to diferentiate between a "Cardio" or "Strength" training | 0            | Nevermind, they have it |
-| Another thing   | 4            |                |
+| I cant change the language, and if I can, I cant find it anywhere | 3            | If its there, make it more visible, like in the profile, if it isnt, put it there               |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -43,7 +43,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Go back arrow is too small and maybe easily probably missable | 0            | Make it bigger or something               |
 | Another thing   | 4            |                |
 
 # 4 Consistency and Standards
@@ -91,7 +91,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| The navigation on the page "workouts" feels clutered with options I selected once, and then never again | 2            | In the "workouts" tab, more space should be given to options like "Categories" and "Custom made", and less for options like "Instructors" or "Challenges"  |
 | Another thing   | 4            |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
@@ -109,5 +109,4 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Everything seems well documented | 0            | Keep it up               |
