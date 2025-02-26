@@ -85,19 +85,13 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+The visual design is focused on the essentials. No changes needed. The design is minimalistic and effectively prioritizes the most relevant information.
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 
 >	- Does the design offer a solution that solves the error immediately?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+I haven't encountered any situations with errors in the app to evaluate this point.
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
