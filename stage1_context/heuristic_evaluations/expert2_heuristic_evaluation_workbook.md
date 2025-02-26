@@ -22,6 +22,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ---------------------------------------------- | ------------ | -------------------------------------- |
 | When I reopen the app, there is no clear       |      2       | Show a intuitive "symbol" to indicate  |
 | way to see if Ive already done a workout today |              | a workout has already been done today  |
+| I have a streak of two days, but only sunday appears to be marked as "complete". Also I have done a lot of workouts on Wednesday (I havent I merely pretended to (as I did on Sunday)), and not only does Wednesday not appears as "complete", I also cant go back to previous days to see what I did, including Sunday | 4 | Allow the user to go back through previous days to see what workouts they did |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -30,7 +31,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| User may not be familiar with terms such as "Core", or may not be able to diferentiate between a "Cardio" or "Strength" training | 0            | Nevermind, they have it |
 | Another thing   | 4            |                |
 
 # 3 User Control and Freedom
@@ -54,6 +55,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | --------------- | ------------ | -------------- |
 | Something wrong | 3            |                |
 | Another thing   | 4            |                |
+
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
 >	- Does the design prevent slips by using helpful constraints? 
@@ -61,8 +63,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| When switching difficulties, workout days, or general goals, the app doesnt warn the user of the changes that may happen in the UI, and the possible problems | 1            | Indicate to the user, when they perform more general settings changes and if the change is significant, what the alteration to the app are going to be |
+
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
