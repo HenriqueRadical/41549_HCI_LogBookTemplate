@@ -2,12 +2,12 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Evaluator**: Diogo Nascimento
+**Date**: 26-02-2025
+**Product**: Seven app
 
 
-Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
+Severity Scale adopted: 0 - I don't agree that this is a usability problem at all; 1 - Cosmetic problem; 2 - Minor usability problem; 3 - Major usability problem; 4 - Usability catastrophe.
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
 # 1 Visibility of System Status
@@ -15,10 +15,13 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design clearly communicate its state?
 >	- Is feedback presented quickly after user actions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                                      | **Severity** | Recommendation                         |
+| ---------------------------------------------- | ------------ | -------------------------------------- |
+| When downloading a workout, I cant tell        |      1       | Progress Bar for download              |
+| how long the download will take                |              |                                        |
+| ---------------------------------------------- | ------------ | -------------------------------------- |
+| When I reopen the app, there is no clear       |      2       | Show a intuitive "symbol" to indicate  |
+| way to see if Ive already done a workout today |              | a workout has already been done today  |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
