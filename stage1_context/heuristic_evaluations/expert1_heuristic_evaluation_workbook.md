@@ -32,7 +32,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|The names and instructions of some exercises differ in Brazilian Portuguese and European Portuguese| 3            |Review exercise descriptions with native speakers and consider adaptations for European Portuguese            |
+|The names and instructions of some exercises differ in Brazilian Portuguese and European Portuguese.| 3            |Review exercise descriptions with native speakers and consider adaptations for European Portuguese.            |
 
 
 # 3 User Control and Freedom
@@ -72,7 +72,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|During the workout, it wasn't obvious that touching the screen would allow you to pause, repeat an exercise, move to the next one, or exit. | 2            | Add visual cues (e.g., semi-transparent icons for pause, next, or exit) and a short tutorial screen before the first workout               |
+|During the workout, it wasn't obvious that touching the screen would allow you to pause, repeat an exercise, move to the next one, or exit. | 2            | Add visual cues (e.g., semi-transparent icons for pause, next, or exit) and a short tutorial screen before the first workout.              |
 | Another thing   | 4            |                |
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -81,7 +81,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| There is no option to play music during exercises. | 3            | Add a feature to play music during exercises, allowing users to choose built-in tracks or use their own music.               |
 | Another thing   | 4            |                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -109,5 +109,5 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|There are no tips for beginners.| 2           |Introduce a tutorial mode upon first use              |
-| Another thing   | 4            |                |
+|There are no tips for beginners.| 2           |Introduce a tutorial mode upon first use.              |
+|There is no option to enable or disable a brief explanation before starting an exercise.  | 3           | Add a setting that allows automatically playing an instruction before each exercise, with the option to disable it in the settings.               |
