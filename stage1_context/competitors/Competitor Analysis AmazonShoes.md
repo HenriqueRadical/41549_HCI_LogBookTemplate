@@ -1,11 +1,11 @@
 # Competitor Analysis: [System Name] 
 ## General Information 
-- **Name of System:** [System Name] 
-- **Company/Developer:** [Company Name] 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [e.g., Web, Mobile (iOS/Android), Desktop] 
-- **Target Audience:** [Who is this designed for?] 
+- **Name of System:** Seven 
+- **Company/Developer:** Perigee
+- **Website/Product Page:** https://seven.app
+- **Version/Release Date:** Version 9.20.06 released on November 11, 2024
+- **Platform(s) Supported:** Mobile (iOS/Android)
+- **Target Audience:** Users who want to do short and effective bodyweight workouts at home or on-the-go, typically targeting people looking for quick, 7-minute daily workouts.
 
 --- 
 ## Core Functionality 
