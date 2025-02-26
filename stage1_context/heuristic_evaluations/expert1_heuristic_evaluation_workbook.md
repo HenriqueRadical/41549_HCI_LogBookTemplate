@@ -81,7 +81,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | There is no option to play music during exercises. | 3            | Add a feature to play music during exercises, allowing users to choose built-in tracks or use their own music.               |
-| Another thing   | 4            |                |
+| Еhere is a lack of variety in exercises in the app's free version. | 3            | Add more diverse exercises to the free version, allowing users to choose based on their preferences, difficulty levels, or goals.|
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
