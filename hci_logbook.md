@@ -10,7 +10,7 @@ Work carried out by:
 **Team:**
 - Student 1: [Name and Number] 
 - Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 3: Henrique Reveles 119786
 - Student 4: Maria-Aleksandra Korjenevskaya 118769
 
 ---
