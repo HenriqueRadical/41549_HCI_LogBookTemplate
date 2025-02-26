@@ -7,13 +7,15 @@
 >	Here you will briefly explain the domain of the problem you identified, briefly identify general challenges and, then, state you problem
 
 # Context
-[What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
+We want to build a system that supports the people throughout their fitness journey of people whether they are just joining or already are part of this kind of world. Give tools to check stats, track running sessions or give workouts to follow.
+
 
 # Challenges
-[What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]
+Maintain a balance between the numbers of inputs, because too much input may make the user quit the service, but the lack makes the system very plain. 
+Give the right motivation to the beginners users stay consistent. 
+
 
 # The goal
-[In a short sentence state what is the problem you wish to address]
-
+A system that offers tools to people workout.
 
 [Back to main Logbook Page](hci_logbook.md)
