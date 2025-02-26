@@ -69,8 +69,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|During the workout, it wasn't obvious that touching the screen would allow you to pause, repeat an exercise, move to the next one, or exit. | 2            | Add visual cues (e.g., semi-transparent icons for pause, next, or exit) and a short tutorial screen before the first workout.              |
-| Some achievements do not have a clear explanation of what they are awarded for. | 3           |Add brief descriptions or explanations to each achievement so that users understand how they are earned                |
+|During the workout, it wasn't obvious that touching the screen would allow you to pause, repeat an exercise, move to the next one, or exit. | 1            | Add visual cues (e.g., semi-transparent icons for pause, next, or exit) and a short tutorial screen before the first workout.              |
+| Some achievements do not have a clear explanation of what they are awarded for. | 2           |Add brief descriptions or explanations to each achievement so that users understand how they are earned                |
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | There is no option to play music during exercises. | 3            | Add a feature to play music during exercises, allowing users to choose built-in tracks or use their own music.               |
-| Еhere is a lack of variety in exercises in the app's free version. | 3            | Add more diverse exercises to the free version, allowing users to choose based on their preferences, difficulty levels, or goals.|
+| There is a lack of variety in exercises in the app's free version. | 3            | Add more diverse exercises to the free version, allowing users to choose based on their preferences, difficulty levels, or goals.|
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
@@ -101,4 +101,4 @@ I haven't encountered any situations with errors in the app to evaluate this poi
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 |There are no tips for beginners.| 2           |Introduce a tutorial mode upon first use.              |
-|There is no option to enable or disable a brief explanation before starting an exercise.  | 3           | Add a setting that allows automatically playing an instruction before each exercise, with the option to disable it in the settings.               |
+|There is no option to enable or disable a brief explanation before starting an exercise.  | 2           | Add a setting that allows automatically playing an instruction before each exercise, with the option to disable it in the settings.               |
