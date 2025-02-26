@@ -16,7 +16,7 @@
 | ----------------- | ------------------------------------------- | ----------------------------------- |
 | [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
 | [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+
 
 
 
@@ -63,33 +63,43 @@
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+| Task                          | Subtasks                              |
+| ----------------------------- | --------------------------------------|
+| 	**1. Doing a workout** 		| Select a goal							|
+|								| Choose the days to workout			|
+|								| Choose the time of workout			| 
+|                               | Start workout            				|
 
-| Task                        | Subtasks                               |
-| --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
-
-
-| Task                          | Subtasks                                |
-| ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
-
+| Task                          | Subtasks                              |
+| ----------------------------- | --------------------------------------|
+| **1. Create and personalize a workout**| Move to the workouts section |
+| 								| Scroll down to "Custom Made" section	|
+|								| Click to create a workout				|
+|								| Choose the exercises to add to workout| 
+|								| Save the workout 						|
 
 #### Results
 
-Task: [This is the task]
+Task: Doing a workout
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Select a goal   | Yes	|  There is text to explain what to do and must select one of three goals to continue|	Yes |  There is bar on top of the app to show the progress | | | |
+| 2      | Choose the days to workout   | Yes |  Text saying what to do and must select at least one day to workout | Yes	|  The bar on top will progress  | | | |
+| 3      | Choose the time to workout   | Yes |  There is a text to explain the step and will prompt a interface to choose the time     | Yes |  After the choosing the time of the day to workout, will switch to the Plans Section     | | | |
+| 4    | Start the workout | Yes 	|  The button is big and blue and it says "Start the workout" | Yes | The screen changes to Workout mode showing the current exercise and the timer | | |
+
+---
+
+Task: Create and personalize a workout
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Move to the workouts section   |  Yes                                         |   On the bottom of the app show the different sections    | Yes | The section shows the different workouts categories | | | |
+| 2      | Scroll down to "Custom Made" section  | Yes | It's intuitive to scroll down because the "Events" section is being shown halfway through | Yes | After entering the "Custom Made" section, there is a text explaining the section and a button to create a workout | | | |
+| 3      | Click to create a workout | Yes | There is a button blue that stands out more and it says "Create Workout"   | Yes                                                                                  | It loads a list of exercises available | | | |
+| 4      |  Choose the exercises to add to workout | Yes |   The list of exercises have an plus icon on right to add the exercise   | No | To create a workout its needs at least 3 exercises | | Add a progress bar to show progress of creating a workout | |
+| 5    | Save the workout | Yes | There is blue button saying "Done" | Yes | Goes back to the "Custom Made" section showing the workout just created | | | |
 
 
 
