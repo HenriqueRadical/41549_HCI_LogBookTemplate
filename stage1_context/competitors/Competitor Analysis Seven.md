@@ -5,17 +5,18 @@
 - **Website/Product Page:** https://seven.app
 - **Version/Release Date:** Version 9.20.06 released on November 11, 2024
 - **Platform(s) Supported:** Mobile (iOS/Android)
-- **Target Audience:** Users who want to do short and effective bodyweight workouts at home or on-the-go, typically targeting people looking for quick, 7-minute daily workouts.
+- **Target Audience:** Busy people seeking short and effective workouts, home fitness enthusiasts, fitness novices, and travelers who need convenient workouts without the need to visit a gym.
 
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:** 
+The app is designed to provide users with short and effective bodyweight workouts that can be done at home or anywhere convenient.
 
 **Key Features:** 
 - Personalized workouts: Individual workout plans designed for the user's fitness level, goals, and preferences.
 - Customizable workout programs: The ability to choose exercises for different body parts or perform full-body comprehensive workouts. (Unfortunately, this mostly applies to the paid version of the app).
-- [Feature 3] 
+- Progress tracking: saving completed workouts (records which workouts were completed and on which days), an achievement system (users receive rewards for completing a certain number of workouts and challenges), and statistics and analytics (shows the total number of completed workouts and time spent). 
 
 **Unique Selling Points (USPs):**
 
