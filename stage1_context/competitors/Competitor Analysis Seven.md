@@ -35,7 +35,7 @@ The app is designed to provide users with short and effective bodyweight workout
 ---
 
 ## Screenshots
-![alt text]( ![im1](https://github.com/user-attachments/assets/7b040035-cf4a-4b5a-95e6-835eb77e200d)
+![Image 1]( ![im1](https://github.com/user-attachments/assets/7b040035-cf4a-4b5a-95e6-835eb77e200d)
 "Title")
 
 
