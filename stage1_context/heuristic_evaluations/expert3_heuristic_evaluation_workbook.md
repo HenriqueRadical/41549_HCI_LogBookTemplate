@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | Another thing   | 4            |                |
 
 
-Every exercise, workout and sections have a clarify icons that seem reasonable intuitive 
+Every exercise, workout and sections have clear icons that seem reasonable intuitive. 
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
