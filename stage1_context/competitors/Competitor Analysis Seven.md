@@ -1,4 +1,4 @@
-# Competitor Analysis: [Application Seven] 
+# Competitor Analysis: Application Seven 
 ## General Information 
 - **Name of System:** Seven 
 - **Company/Developer:** Perigee
@@ -35,6 +35,7 @@ The app is designed to provide users with short and effective bodyweight workout
 ---
 
 ## Screenshots
+
 
 
 ## Online Reviews
