@@ -46,6 +46,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | There's no option to change the language of the app| 3 | Add an interface to be possible to change the language of the app | 
+| There's no option to cancel a download | 3 | Add an clear interface and with the right icon to represent a stop download button 
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
