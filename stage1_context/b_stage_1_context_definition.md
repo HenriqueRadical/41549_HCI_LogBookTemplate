@@ -36,7 +36,7 @@ We used four experts that did a analysis to the app using the heuristics by the 
 > 3 - Major usability problem;
 > 4 - Usability catastrophe.
 
-The consensus was done by collecting the issues found by the four experts and analyzing the reason behind the statement. 
+The consensus was done by collecting the issues found by the 3 experts and analyzing the reason behind the statement. 
 
 #### Individual Evaluations
 
@@ -52,11 +52,13 @@ The consensus was done by collecting the issues found by the four experts and an
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Expert 4 | Recommendations |
-| --------------- | ------------ | -------- | -------- | -------- | ---------------- |
-| Something wrong | 3            | 1        | 0        |0 | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | 0| Other thing to recommend                    |
-| ...             |              |          |          | 0|                                             |
+| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations |
+| --------------- | ------------ | -------- | -------- |---------------- |
+| It is unclear how to change the app's language | 3 | 3 | 3 | Add a clear language change option in the settings and an self-explanatory element in the interface.
+| There's no tutorial in the app | 2 | 0 | 2 |  Introduce to a tutorial upon the first use|
+| There is no confirmation step before starting a workout | 1 | ? | 2 | Add a confirmation prompt that indicates the user he is about to start the workout
+| During a workout, the user can easily exit without meaning to | ? | ? | 2 | Add a confirmation prompt to ensure that the user is about to exit the workout
+| The user can download things without meaning to | ? | ? | 2 | Add a confirmation prompt informing the user that he is about to start a download
 
 
 ---
