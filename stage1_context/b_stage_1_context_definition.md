@@ -14,8 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
+| Seven    |  Gives 7-minute long daily workouts        | [Competitor Analysis Seven](competitors/Competitor%20Analysis%20Seven.md) |
 
 
 
@@ -28,8 +27,16 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
+We used four experts that did a analysis to the app using the heuristics by the Nielsen Norman Group, considering the following severity scale:
+
+> 0 - I don't agree that this is a usability problem at all;
+> 1 - Cosmetic problem;
+> 2 - Minor usability problem; 
+> 3 - Major usability problem;
+> 4 - Usability catastrophe.
+
+The consensus was done by collecting the issues found by the four experts and analyzing the reason behind the statement. 
 
 #### Individual Evaluations
 
@@ -45,12 +52,11 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
-
+| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Expert 4 | Recommendations |
+| --------------- | ------------ | -------- | -------- | -------- | ---------------- |
+| Something wrong | 3            | 1        | 0        | | Something could be done to the button to... |
+| Another thing   | 4            | 3        | 4        | | Other thing to recommend                    |
+| ...             |              |          |          | |                                             |
 
 
 ---
@@ -61,7 +67,7 @@
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
+The tasks selected are "Doing a workout" and "Create and personalize a workout" because the main focus of this system is to give the workouts in question to the users and those tasks must have simple and clear steps to achieve. Otherwise, the app fails his primary goal.
 
 | Task                          | Subtasks                              |
 | ----------------------------- | --------------------------------------|
