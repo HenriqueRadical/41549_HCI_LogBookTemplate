@@ -126,7 +126,7 @@ Task: **Create and personalize a workout**
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
+| 26-02-2025 | Francisco/ student      | Does most things on paper and would require a complete solution | [📄 Notes](interviews/interview-Francisco.md) |     |
 | ...        |                    |                                                                 |                              |     |
 
 ### Common Themes & Patterns 
