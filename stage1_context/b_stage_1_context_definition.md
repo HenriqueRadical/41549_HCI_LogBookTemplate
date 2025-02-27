@@ -67,7 +67,7 @@ The consensus was done by collecting the issues found by the four experts and an
 
 #### Task Selection and Task Analysis
 
-The tasks selected are "Doing a workout" and "Create and personalize a workout" because the main focus of this system is to give the workouts in question to the users and those tasks must have simple and clear steps to achieve. Otherwise, the app fails his primary goal.
+The tasks selected are **"Doing a workout"** and **"Create and personalize a workout"** because the main focus of this system is to give the workouts in question to the users and these tasks must have simple and clear steps to achieve. Otherwise, the app fails its primary objective.
 
 | Task                          | Subtasks                              |
 | ----------------------------- | --------------------------------------|
