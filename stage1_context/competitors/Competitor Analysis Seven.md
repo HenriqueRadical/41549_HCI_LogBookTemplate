@@ -1,4 +1,4 @@
-# Competitor Analysis: [System Name] 
+# Competitor Analysis: [Application Seven] 
 ## General Information 
 - **Name of System:** Seven 
 - **Company/Developer:** Perigee
