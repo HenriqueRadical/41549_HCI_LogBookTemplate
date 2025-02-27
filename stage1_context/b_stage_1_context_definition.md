@@ -54,16 +54,17 @@ The consensus was done by collecting the issues found by the four experts and an
 
 | **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Expert 4 | Recommendations |
 | --------------- | ------------ | -------- | -------- | -------- | ---------------- |
-| Something wrong | 3            | 1        | 0        | | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | | Other thing to recommend                    |
-| ...             |              |          |          | |                                             |
+| Something wrong | 3            | 1        | 0        |0 | Something could be done to the button to... |
+| Another thing   | 4            | 3        | 4        | 0| Other thing to recommend                    |
+| ...             |              |          |          | 0|                                             |
 
 
 ---
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+
+In this process we tried to simulate the thought process of new user i.e. a person who has just installed the app Seven and is trying to perform basic tasks, as explained in the next section.
 
 #### Task Selection and Task Analysis
 
@@ -86,7 +87,7 @@ The tasks selected are **"Doing a workout"** and **"Create and personalize a wor
 
 #### Results
 
-Task: Doing a workout
+Task: **Doing a workout**
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
@@ -97,7 +98,7 @@ Task: Doing a workout
 
 ---
 
-Task: Create and personalize a workout
+Task: **Create and personalize a workout**
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
