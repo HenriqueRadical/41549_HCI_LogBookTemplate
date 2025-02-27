@@ -12,11 +12,24 @@
 
 **Primary Purpose:** [Briefly describe what the system is designed to do] 
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** 
+- Personalized workouts: Individual workout plans designed for the user's fitness level, goals, and preferences.
+- Customizable workout programs: The ability to choose exercises for different body parts or perform full-body comprehensive workouts. (Unfortunately, this mostly applies to the paid version of the app).
+- [Feature 3] 
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):**
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+- Short workouts that easily fit into a busy schedule.
+
+- Access to workouts anytime, anywhere without the need for equipment.
+
+- Interactive elements and games that make workouts fun and engaging.
+
+**Limitations/Weaknesses:** 
+
+- Some users may find that the workouts are too short to achieve serious fitness goals.
+
+- Limited variety of exercises compared to more advanced fitness apps. 
 
 ---
 
