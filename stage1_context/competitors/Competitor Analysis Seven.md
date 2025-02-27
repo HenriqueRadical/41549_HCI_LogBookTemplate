@@ -41,3 +41,9 @@ The app is designed to provide users with short and effective bodyweight workout
 
 
 ## Online Reviews
+
+Average app rating: 4.7/5 on the App Store and 4.6/5 on Google Play.
+
+Negative reviews: Some users complain about limited free content, repetitive exercises, and the lack of advanced programs.
+
+Positive reviews: Users like that the workouts are short and convenient, making them easy to fit into their schedule. The achievement and reward system helps keep them motivated, and they can exercise anywhere without equipment. Many also appreciate the simple and user-friendly interface, easy progress tracking, and a good selection of workout programs. 
