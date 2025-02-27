@@ -35,10 +35,11 @@ The app is designed to provide users with short and effective bodyweight workout
 ---
 
 ## Screenshots
-![Image 1]( ![im1](https://github.com/user-attachments/assets/7b040035-cf4a-4b5a-95e6-835eb77e200d)
-"Title")
 
-
+<img src="./images/seven01.jpg" alt="Seven app image 01" width="250"/> 
+<img src="./images/seven02.jpg" alt="Seven app image 02" width="250"/> 
+<img src="./images/seven03.jpg" alt="Seven app image 03" width="250"/>
+<img src="./images/seven04.jpg" alt="Seven app image 04" width="250"/>
 
 ## Online Reviews
 
