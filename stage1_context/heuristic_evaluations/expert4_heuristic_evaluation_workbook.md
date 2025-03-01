@@ -3,8 +3,11 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Henrique Reveles 119786
+
 **Date**: 26-02-2025
-**Product**: App Seven
+
+**Product**: Seven (App)
+
 
 Severity Scale adopted: 
 
@@ -17,6 +20,7 @@ Severity Scale adopted:
 • 3 - Major usability problem;
 
 • 4 - Usability catastrophe.
+
 
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
