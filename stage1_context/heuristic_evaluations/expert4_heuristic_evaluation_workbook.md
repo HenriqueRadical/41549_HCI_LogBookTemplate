@@ -34,7 +34,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | When choosing which days to work out, the buttons are by default all selected, which makes it confusing and easy to instead deselect the buttons you think you're selecting | 3            | Make it clearer which buttons are selected by having a border around them instead of a simple color change which could both indicate they are selected or not, making it more confusing               |
-| Another thing   | 4            |                |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
