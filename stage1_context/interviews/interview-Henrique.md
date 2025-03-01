@@ -18,10 +18,6 @@
 - It's hard to stay consistent
 - Motivation is hard to find
 
-***Mostrar uma página quando se carrega em "Não tenho inscrição" mostrando o que podes encontrar no ginásio
-Resumo do treino diário, tracking da semana de fitness
-Ver a lotação do ginásio e média por dia da semana***
-
 **Are there any workarounds or strategies they currently use?** 
 - Keep a mental map of their routine
 
@@ -36,8 +32,8 @@ Ver a lotação do ginásio e média por dia da semana***
 - Losing the motivation to continue is easy, as since it's not on a proper schedule they can easily replace it with something else like playing a game
 
 **What features do they wish these tools had?** 
-- [Feature 1] 
-- [Feature 2] 
+- A better way to track their routine
+- Way to not forget to do their workout
 --- 
 ## Expectations for a Novel Approach 
 
