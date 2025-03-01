@@ -3,7 +3,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Ivan Horoshko
-**Date**: 26-02-2005
+**Date**: 26-02-2025
 **Product**: Seven App
 
 ---
