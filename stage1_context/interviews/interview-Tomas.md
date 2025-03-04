@@ -3,10 +3,10 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 ## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
-- **Context:** [Where and how the interview was conducted] 
+- **Date:** 27.02.2025
+- **Interviewer:** Maria-Aleksandra Korjenevskaya 
+- **Participant:** Tomás, estudent
+- **Context:** The interview was conducted during a practical class on Human-Computer Interaction (HCI).
 - --- 
 ## Task Overview 
 
