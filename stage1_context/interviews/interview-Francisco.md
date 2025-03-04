@@ -7,6 +7,15 @@
 - **Context:** This interview was conducted via a Whatsapp video call
 
 --- 
+## Observations 
+
+Francisco is a student who used to be actively involved in sports (swimming, hockey), but due to his studies, he now trains very rarely. His main goal is to build endurance rather than gain muscle mass or lose weight. The main obstacle is a lack of time due to a long commute to university (about 2 hours a day). Despite this, he tries to stay in shape so that he can return to his favorite sports in the future.  
+
+Francisco does not use fitness apps, but he has clear expectations for such a tool. Personalized recommendations and ease of use are important to him. The app should be simple and intuitive, without a complicated learning process, and its main function should be adapting workout plans to the user’s goals. Another important aspect is support in the form of exercise and nutrition tips.  
+
+Progress tracking and achievements are not critical for him, but he acknowledges that the ability to monitor his activity (workout time, intensity, changes over time) could be useful. As for social features, he is not interested in them. However, the ability to compare his stats with other users and exchange tips would be a useful addition.
+
+--- 
 ## Main Questions 
 
  **1. Can you describe your typical day?** 
