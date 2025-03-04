@@ -4,7 +4,7 @@
 - **Date:** 03.03.2025
 - **Interviewer:** Maria-Aleksandra Korjenevskaya 
 - **Participant:** Lesha, 23
-- **Context:**The interview was conducted via an audio call on Telegram.
+- **Context:** The interview was conducted via an audio call on Telegram.
 - --- 
 ## General Questions About Daily Life and Sports Habits
 
