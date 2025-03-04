@@ -1,7 +1,5 @@
 # Informal User Interview Notes 
 
-> 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
-
 ## Interview Details 
 - **Date:** 27.02.2025
 - **Interviewer:** Maria-Aleksandra Korjenevskaya 
