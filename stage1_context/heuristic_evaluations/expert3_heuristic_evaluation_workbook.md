@@ -121,6 +121,5 @@ Didn't find any erros messages during the analysis of the app.
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| There's no tutorial in the app when first time using it | 2 | Make a little tutorial that explains the what every section is about and the main features |
-
-| The Terms of Use and the Privacy Policy are blank :(
+| There's no tutorial in the app the first time using it | 2 | Make a little tutorial that explains what every section is about and the main features. |
+| The Terms of Use and the Privacy Policy are blank | 3 | Fix the link that brought to the Terms of Use and the Privacy Policy.
