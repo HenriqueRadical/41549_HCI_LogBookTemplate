@@ -4,7 +4,7 @@
 - **Date:** 27.02.2025
 - **Interviewer:** Maria-Aleksandra Korjenevskaya 
 - **Participant:** Paulo Dias, professor at the university
-- **Context:** The interview was conducted via an audio call on Telegram.
+- **Context:** The interview was conducted during a practical class on Human-Computer Interaction (HCI).
 - --- 
 ## General Questions About Daily Life and Sports Habits
 
