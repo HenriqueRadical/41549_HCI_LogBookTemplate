@@ -1,6 +1,6 @@
-# ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
+# ![Persona Name](personas/Ana.jpg)  
+**Name:** Ana 
+**Age:** 25  
 **Occupation:** [Job Title or Role]  
 **Location:** [City, Country]  
 
