@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/Ana.jpg)  |
+| **Photo**        | ![Ana\|100](personas/Ana.jpg)  |
 | **Name**         | [Persona Name]                                |
 | **Age**          | [Persona Age]                                 |
 | **Occupation**   | [Job Title or Role]                           |
