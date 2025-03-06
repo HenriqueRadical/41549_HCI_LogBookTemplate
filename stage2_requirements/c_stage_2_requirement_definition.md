@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | # <img src="Ana.jpg" alt="Ana" width="300"/>  |
+| **Photo**        | ![Ana\|100](personas/Ana.jpg)  |
 | **Name**         | Ana                               |
 | **Age**          | 25                             |
 | **Occupation**   | Photographer and designer                           |
@@ -28,7 +28,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | # <img src="Antonio.jpg" alt="Ana" width="300"/>            |
+| **Photo**        | ![Antonio\|100](personas/Antonio.jpg)            |
 | **Name**         | António Almeida                                |
 | **Age**          | 27                                 |
 | **Occupation**   | Personal trainer                           |
@@ -43,7 +43,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | # <img src="Rafael.jpg" alt="Ana" width="300"/>  |
+| **Photo**        | ![Rafael\|100](personas/Rafael.jpg)  |
 | **Name**         | Rafael                               |
 | **Age**          | ???                             |
 | **Occupation**   | Finance advisor                           |
