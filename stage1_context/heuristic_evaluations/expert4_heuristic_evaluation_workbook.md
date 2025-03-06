@@ -33,7 +33,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| When choosing which days to work out, the buttons are by default all selected, which makes it confusing and easy to instead deselect the buttons you think you're selecting | 3            | Make it clearer which buttons are selected by having a border around them instead of a simple color change which could both indicate they are selected or not, making it more confusing               |
+| When choosing which days to work out, the buttons are by default all selected, which makes it confusing and easy to instead deselect the buttons you think you're selecting | 2            | Make it clearer which buttons are selected by having a border around them instead of a simple color change which could both indicate they are selected or not, making it more confusing               |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -53,8 +53,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| The analog clock used to choose when to work out is not very straightforward and may confuse some users. | 3            | Have a more simple interface to type the hour.               |
-| Custom workouts may show up twice as duplicates.   | 4            | Fix them to only show once.               |
+| The analog clock used to choose when to work out is not very straightforward and may confuse some users. | 2            | Have a more simple interface to type the hour.               |
+| Custom workouts may show up twice as duplicates.   | 3            | Fix them to only show once.               |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -71,7 +71,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Global group workouts are shown to be scheduled for `in 20148 days` by default. That's an error, as when clicked it shows under 1 minute wait times. | 4            | Fix to show the real date               |
+| Global group workouts are shown to be scheduled for `in 20148 days` by default. That's an error, as when clicked it shows under 1 minute wait times. | 3            | Fix to show the real date               |
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
@@ -87,8 +87,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| The app allows for favouriting your favourite workouts, which saves time, but you are not able ot favourite your custom workouts, which seems like a missed opportunity. | 3            | Let the user favourite both default and custom workouts for easy access.               |
-| Not many other shortcuts, app widgets, or tooltips are present.   | 3            | Add widgets or shortcuts to increase ease of use for experienced users.               |
+| The app allows for favouriting your favourite workouts, which saves time, but you are not able ot favourite your custom workouts, which seems like a missed opportunity. | 2            | Let the user favourite both default and custom workouts for easy access.               |
+| Not many other shortcuts, app widgets, or tooltips are present.   | 2            | Add widgets or shortcuts to increase ease of use for experienced users.               |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
@@ -97,7 +97,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Intrusive membership signup messages | 3            | Make them appear less often or in more specific situations where they would actually be required to access those features               |
-| The app contains a lot fo seemingly unnecessary features for most users, like duels, challenges, achievements, etc. that the average user would not go out of their way to do on their workout app.   | 3            | Make the more essential features be in focus               |
+| The app contains a lot fo seemingly unnecessary features for most users, like duels, challenges, achievements, etc. that the average user would not go out of their way to do on their workout app.   | 2            | Make the more essential features be in focus               |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 
@@ -114,4 +114,4 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Documentation for this app does not seem to exist.  | 4            |                |
+| Documentation for this app does not seem to exist.  | 3            |                |
