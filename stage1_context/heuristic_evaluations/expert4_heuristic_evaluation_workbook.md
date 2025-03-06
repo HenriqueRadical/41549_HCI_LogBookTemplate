@@ -71,7 +71,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Global group workouts are shown to be scheduled for `in 20148 days` by default. That's an error, as when clicked it shows under 1 minute wait times. | 3            | Fix to show the real date               |
+| Global group workouts are shown to be scheduled for `in 20148 days` by default. That's an error, as when clicked it shows under 1 minute wait times. | 2            | Fix to show the real date               |
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
@@ -88,7 +88,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | The app allows for favouriting your favourite workouts, which saves time, but you are not able ot favourite your custom workouts, which seems like a missed opportunity. | 2            | Let the user favourite both default and custom workouts for easy access.               |
-| Not many other shortcuts, app widgets, or tooltips are present.   | 2            | Add widgets or shortcuts to increase ease of use for experienced users.               |
+| Not many other shortcuts, app widgets, or tooltips are present.   | 1            | Add widgets or shortcuts to increase ease of use for experienced users.               |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
