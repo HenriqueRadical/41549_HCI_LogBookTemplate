@@ -1,4 +1,4 @@
-# ![Ana](personas/Ana.jpg)
+# <img src="Ana.jpg" alt="Ana" width="300"/>
 **Name:** Ana
 
 **Age:** 25 
