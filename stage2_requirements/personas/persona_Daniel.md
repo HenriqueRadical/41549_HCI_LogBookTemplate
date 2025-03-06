@@ -1,4 +1,5 @@
 <img src="Daniel.jpeg" alt="Daniel Nicolas" width="300"/>
+
 **Name:** Daniel Nicolas
 
 **Age:** 26
