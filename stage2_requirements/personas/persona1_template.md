@@ -1,6 +1,5 @@
 # !Ana(personas/Ana.jpg)  
 **Name:** Ana
-
 **Age:** 25  
 **Occupation:** [Job Title or Role]  
 **Location:** [City, Country]  
