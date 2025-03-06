@@ -1,4 +1,5 @@
-# [foto]  
+# <img src="Antonio.jpg" alt="Ana" width="300"/>
+
 **Name:** António Almeida
 **Age:**  27
 **Occupation:** Personal trainer
