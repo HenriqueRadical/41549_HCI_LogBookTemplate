@@ -11,7 +11,9 @@
 
 Ana is an ambitious and curious young woman from Belarus who has decided to dedicate her life to traveling. She works as a photographer and designer, which allows her to work remotely and be free to move around. Ana completed her Bachelor's Degree in Graphic Design at the Academy of Art, Architecture and Design in Prague (AAAD), where she began developing her career, combining creativity with the opportunity to live in various corners of the world. Currently, she moves to a new location every two months, which gives her the chance to immerse herself in new environments, meet new people, and explore different areas.
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+Ana's mornings usually begin with meditation, yoga, and light stretching, which help her set up for a productive day. She spends most of the day working — photography and design. Ana actively uses devices such as a camera, tablet, and laptop, and uses programs for photo editing and design. In her free time, she goes for walks, exploring new places and interacting with locals. Ana follows a healthy diet, choosing balanced foods. 
+
+To manage her workouts and nutrition, she also uses apps, but sometimes she lacks variety in workouts that can be done anywhere and without equipment, as it takes up a lot of space in her suitcase.
 
 ## Goals & Needs  
 [Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
