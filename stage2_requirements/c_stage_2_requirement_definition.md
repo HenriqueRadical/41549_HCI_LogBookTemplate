@@ -9,38 +9,51 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Ana 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Ana\|100](personas/Ana.jpg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | # <img src="Ana.jpg" alt="Ana" width="300"/>  |
+| **Name**         | Ana                               |
+| **Age**          | 25                             |
+| **Occupation**   | Photographer and designer                           |
+| **Location**     | She changes location every 2 months                               |
+| **Goals**        | Maintain her health and physical well-being           |
+| **Pain Points**  | Finding a variety of exercises, which require little to no equipment              |
+| **Motivation**   | By keeping herself in shape she is able to travel the world, learn about other cultures and document them     |
 | **Full Profile** | [📄 Read More](personas/persona1Ana_template.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: Antonio 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | # <img src="Antonio.jpg" alt="Ana" width="300"/>            |
+| **Name**         | António Almeida                                |
+| **Age**          | 27                                 |
+| **Occupation**   | Personal trainer                           |
+| **Location**     | Leiria, Portugal                               |
+| **Goals**        | Bring more people to his gym           |
+| **Pain Points**  | Hard to find people outside of the gym willing to join, with difficulty finding means to advertise it             |
+| **Motivation**   | By bringing more people to the gym, he not only gets more clients, but helps the business that helped him when he was younger                |
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
+## Persona: Rafael 
+### Summary 
+| Attribute        | Details                                       |
+| ---------------- | --------------------------------------------- |
+| **Photo**        | # <img src="Rafael.jpg" alt="Ana" width="300"/>  |
+| **Name**         | Rafael                               |
+| **Age**          | ???                             |
+| **Occupation**   | Finance advisor                           |
+| **Location**     | Aveiro, Portugal                               |
+| **Goals**        | ???           |
+| **Pain Points**  | ???              |
+| **Motivation**   | ???     |
+| **Full Profile** | [📄 Read More](personas/persona1Ana_template.md) |
 
-
+---
 
 
 
