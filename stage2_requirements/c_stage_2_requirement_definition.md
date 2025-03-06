@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
+| **Photo**        | ![Persona Name\|100](personas/Ana.jpg)  |
 | **Name**         | [Persona Name]                                |
 | **Age**          | [Persona Age]                                 |
 | **Occupation**   | [Job Title or Role]                           |
@@ -21,7 +21,7 @@
 | **Goals**        | [Brief summary of their main goals]           |
 | **Pain Points**  | [Key frustrations or challenges]              |
 | **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Full Profile** | [📄 Read More](personas/persona1Ana_template.md) |
 
 ---
 ## Persona: [Persona Name] 
