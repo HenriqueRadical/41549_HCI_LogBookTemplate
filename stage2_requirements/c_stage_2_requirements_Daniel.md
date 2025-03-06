@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Daniel\|100](personas/Daniel.jpeg)  |
+| **Photo**        | <img src="Daniel.jpeg" alt="Daniel Nicolas" width="300"/>  |
 | **Name**         | [Persona Name]                                |
 | **Age**          | [Persona Age]                                 |
 | **Occupation**   | [Job Title or Role]                           |
