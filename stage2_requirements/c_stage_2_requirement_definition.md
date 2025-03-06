@@ -60,7 +60,7 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Maria goes on a Museum Tour (EXAMPLE, NOT FINAL)
 
 [Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
 
@@ -70,19 +70,47 @@
 
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
----
+## Scenario 2: Ana improvises a 10 minute workout (EXAMPLE, MAYBE FINAL)
 
+## Scenario 3: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
+
+## Scenario 4: António gets a new client, and creates them a new personal workout (EXAMPLE, PERCHANCE FINAL)
+
+
+
+---
 
 # Requirements
 
 
-
-
-
 ## C.1. Functional requirements
+
+## R1 - 
+
+## R2 - 
+
+## R3 - 
+
+## R4 - 
+
+## R5 - 
+
+## R6 - 
 
 
 ## C.2. Non-functional requirements
+
+## R1 - 
+
+## R2 - 
+
+## R3 - 
+
+## R4 - 
+
+## R5 - 
+
+## R6 - 
 
 
 ---
