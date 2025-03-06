@@ -21,7 +21,7 @@
 | **Goals**        | Maintain her health and physical well-being           |
 | **Pain Points**  | Finding a variety of exercises, which require little to no equipment              |
 | **Motivation**   | By keeping herself in shape she is able to travel the world, learn about other cultures and document them     |
-| **Full Profile** | [📄 Read More](personas/persona1Ana_template.md) |
+| **Full Profile** | [📄 Read More](personas/persona_Ana.md) |
 
 ---
 ## Persona: Antonio 
@@ -36,7 +36,7 @@
 | **Goals**        | Bring more people to his gym           |
 | **Pain Points**  | Hard to find people outside of the gym willing to join, with difficulty finding means to advertise it             |
 | **Motivation**   | By bringing more people to the gym, he not only gets more clients, but helps the business that helped him when he was younger                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Full Profile** | [📄 Read More](personas/persona_António.md) |
 
 ---
 ## Persona: Rafael 
@@ -51,7 +51,7 @@
 | **Goals**        | ???           |
 | **Pain Points**  | ???              |
 | **Motivation**   | ???     |
-| **Full Profile** | [📄 Read More](personas/persona1Ana_template.md) |
+| **Full Profile** | [📄 Read More](personas/persona_Rafael.md) |
 
 ---
 
