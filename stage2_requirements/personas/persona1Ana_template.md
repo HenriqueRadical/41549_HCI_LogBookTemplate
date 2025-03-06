@@ -1,4 +1,4 @@
-# !Ana(personas/Ana.jpg)  
+# ![Ana](personas/Ana.jpg)
 **Name:** Ana
 **Age:** 25  
 **Occupation:** Photographer and designer
