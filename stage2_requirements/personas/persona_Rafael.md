@@ -1,4 +1,4 @@
-# [foto]  
+# <img src="Rafael.jpg" alt="Rafael Gomes" width="300"/> 
 **Name:** Rafael Gomes
 
 **Age:**  30
