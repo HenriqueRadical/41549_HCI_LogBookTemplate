@@ -1,7 +1,10 @@
 # ![Ana](personas/Ana.jpg)
 **Name:** Ana
-**Age:** 25  
+
+**Age:** 25 
+
 **Occupation:** Photographer and designer
+
 **Location:** She travels and changes her location every two months 
 
 ## Background  
