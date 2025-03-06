@@ -9,7 +9,7 @@
 
 ## Background  
 
-Ana is an ambitious and curious young woman from Belarus who has decided to dedicate her life to traveling. She works as a photographer and designer, which allows her to work remotely and be free to move around. Anya completed her Bachelor's Degree in Graphic Design at the Academy of Art, Architecture and Design in Prague (AAAD), where she began developing her career, combining creativity with the opportunity to live in various corners of the world. Currently, she moves to a new location every two months, which gives her the chance to immerse herself in new environments, meet new people, and explore different areas.
+Ana is an ambitious and curious young woman from Belarus who has decided to dedicate her life to traveling. She works as a photographer and designer, which allows her to work remotely and be free to move around. Ana completed her Bachelor's Degree in Graphic Design at the Academy of Art, Architecture and Design in Prague (AAAD), where she began developing her career, combining creativity with the opportunity to live in various corners of the world. Currently, she moves to a new location every two months, which gives her the chance to immerse herself in new environments, meet new people, and explore different areas.
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
 
