@@ -24,6 +24,21 @@
 | **Full Profile** | [📄 Read More](personas/persona_Ana.md) |
 
 ---
+## Persona: Rafael 
+### Summary 
+| Attribute        | Details                                       |
+| ---------------- | --------------------------------------------- |
+| **Photo**        | ![Rafael\|100](personas/Rafael.jpg)  |
+| **Name**         | Rafael                               |
+| **Age**          | 30                             |
+| **Occupation**   | Finance Analyst                           |
+| **Location**     | Aveiro, Portugal                               |
+| **Goals**        | Integrate consistent exercise into his life           |
+| **Pain Points**  | Lack of a clear direction to take, and way to properly register said direction              |
+| **Motivation**   | Stay generally fit and healthy     |
+| **Full Profile** | [📄 Read More](personas/persona_Rafael.md) |
+
+---
 ## Persona: Antonio 
 ### Summary 
 | Attribute        | Details                                       |
@@ -39,28 +54,12 @@
 | **Full Profile** | [📄 Read More](personas/persona_António.md) |
 
 ---
-## Persona: Rafael 
-### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Rafael\|100](personas/Rafael.jpg)  |
-| **Name**         | Rafael                               |
-| **Age**          | ???                             |
-| **Occupation**   | Finance advisor                           |
-| **Location**     | Aveiro, Portugal                               |
-| **Goals**        | ???           |
-| **Pain Points**  | ???              |
-| **Motivation**   | ???     |
-| **Full Profile** | [📄 Read More](personas/persona_Rafael.md) |
-
----
-
 
 
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour (EXAMPLE, NOT FINAL)
+## Scenario 0: Maria goes on a Museum Tour (EXAMPLE, NOT FINAL)
 
 [Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
 
@@ -70,11 +69,11 @@
 
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
-## Scenario 2: Ana improvises a 10 minute workout (EXAMPLE, MAYBE FINAL)
+## Scenario 1-1: Ana improvises a 10 minute workout (EXAMPLE, MAYBE FINAL)
 
-## Scenario 3: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
+## Scenario 2-1: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
 
-## Scenario 4: António gets a new client, and creates them a new personal workout (EXAMPLE, PERCHANCE FINAL)
+## Scenario 3-1: António gets a new client, and creates them a new personal workout (EXAMPLE, PERCHANCE FINAL)
 
 
 
