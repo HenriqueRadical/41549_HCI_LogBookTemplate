@@ -1,4 +1,4 @@
-# !Ana(personas/Ana.jpeg)  
+# !Ana(personas/Ana.jpg)  
 **Name:** Ana
 
 **Age:** 25  
