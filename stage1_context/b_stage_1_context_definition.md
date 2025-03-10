@@ -150,7 +150,16 @@ Task: **Create and personalize a workout**
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
 | 26-02-2025 | Francisco / student      | Does most things on paper and would require a complete solution | [📄 Francisco](interviews/interview-Francisco.md) |     |
-| 27-02-2025 | Bernardo Lázaros / student |                                                                 | [📄 Bernardo](interviews/interview-Francisco.md)                             |     |
+| 27-02-2025 | Bernardo Lázaros / student |                                                           | [📄 Bernardo](interviews/interview-Bernardo.md) |     |
+| 27-02-2025 | Paulo Dias / professor at the university |                                                | [📄 Paulo](interviews/interview-Paulo.md)     |     |
+| 27-02-2025 | Solomiia Koba / student |                                                | [📄 Solomiia](interviews/interview-Solomiia.md)     |     |
+| 27-02-2025 | Tomás / student |                                                | [📄 Tomas](interviews/interview-Tomas.md)     |     |
+| 03-03-2025 | Lyosha / works in an alcohol store |                                                | [📄 Lyosha](interviews/interview-Lyosha.md)     |     |
+| 04-03-2025 | Styopa / works at a university |                                                | [📄 Styopa](interviews/interview-Styopa.md)     |     |
+| 05-03-2025 | Sasha / student |                                                | [📄 Sasha](interviews/interview-Sasha.md)     |     |
+
+
+
 
 ### Common Themes & Patterns 
 
