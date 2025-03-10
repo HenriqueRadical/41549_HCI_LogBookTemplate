@@ -73,6 +73,12 @@
 
 ## Scenario 2-1: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
 
+When the workday finishes Rafael wishes to do a chest workout, having already **marked as one favorite workout** in his app. The Rafael proceeds with opening the app, and **selecting the "workouts" panel**, where there are displayed all the workouts available in the app. In this panel, he goes to the area of **favorites workouts** and selects the chest workout. Therefore appears **information about the workout** and **selects the option to start the workout**.  
+
+After the workout, he **can see the overall stats**, showing him the time of the workout and the calories burned. 
+
+He can see all his stats **in the panel "stats"**.
+
 ## Scenario 3-1: António adds a new client in the app
 
 After the first day of training with a new client, António asks them if they have [an app] on their phone. The client confirms they have it, and so he asks them to **add him as a dedicated personal trainer** on it.
