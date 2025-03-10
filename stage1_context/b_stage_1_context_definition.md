@@ -36,7 +36,7 @@ We used four experts that did a analysis to the app using the heuristics by the 
 > 3 - Major usability problem;
 > 4 - Usability catastrophe.
 
-The consensus was done by collecting the issues found by the 3 experts and analyzing the reason behind the statement. 
+The consensus was done by collecting the issues found by the 4 experts and analyzing the reason behind the statement. 
 
 #### Individual Evaluations
 
@@ -133,7 +133,32 @@ Task: **Create and personalize a workout**
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluation, cognitive walkthrough, online reviews, user feedback, etc.]
+
+### SWOT Analysis
+
+|   Strengths   |
+| ------------ |
+Offers simple workouts, clear and without eqquipment.
+The app has intituive and easy to understand user interface.
+This app is also available for smart watches.
+The idea of Gamification is that feeling like completing a workout is a quest game, helps build a habit.
+Having reminders helps with the consistency.
+
+| Weaknesses |
+| ---------- |
+This app just provides basic personalization.
+Lack of variety in exercises in the app's free version.
+Some settings don't specify what happens when changing it.
+
+| Opportunities |
+| ------------- |
+A option to play music from spotify/youtube music or from your own device songs.
+
+| Threats |
+| ------- |
+The competitor offers more trackers like how much water the user drank or how many steps taken.
+The panel of stats is accessed more quickly in a competing app.
 
 ---
 
