@@ -13,12 +13,13 @@ Ana is an ambitious and curious young woman from Belarus who has decided to dedi
 ## Daily Life  
 Ana's mornings usually begin with meditation, yoga, and light stretching, which help her set up for a productive day. She spends most of the day working — photography and design. Ana actively uses devices such as a camera, tablet, and laptop, and uses programs for photo editing and design. In her free time, she goes for walks, exploring new places and interacting with locals. Ana follows a healthy diet, choosing balanced foods. 
 
-To manage her workouts and nutrition, she also uses apps, but sometimes she lacks variety in workouts that can be done anywhere and without equipment, as it takes up a lot of space in her suitcase.
 
 ## Goals & Needs  
 Ana dreams of exploring as many countries as possible, getting to know different cultures, and deepening her knowledge of foreign languages. One of her needs is maintaining her health and well-being. For her, sports are not just physical activity but an important part of her personal well-being, helping her cope with the psychological and emotional stress that comes with frequent moves and new environments. Ana is open to trying new types of sports, as it is part of her drive for self-improvement and discovering new opportunities.  
 
 ## Pain Points & Challenges  
+To manage her workouts and nutrition, she also uses apps, but sometimes she lacks variety in workouts that can be done anywhere and without equipment, as it takes up a lot of space in her suitcase.
+
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
 
 ## Motivation  
