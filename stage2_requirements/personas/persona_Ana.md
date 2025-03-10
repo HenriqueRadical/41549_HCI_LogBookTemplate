@@ -18,10 +18,7 @@ Ana's mornings usually begin with meditation, yoga, and light stretching, which 
 Ana dreams of exploring as many countries as possible, getting to know different cultures, and deepening her knowledge of foreign languages. One of her needs is maintaining her health and well-being. For her, sports are not just physical activity but an important part of her personal well-being, helping her cope with the psychological and emotional stress that comes with frequent moves and new environments. Ana is open to trying new types of sports, as it is part of her drive for self-improvement and discovering new opportunities.  
 
 ## Pain Points & Challenges  
-To manage her workouts and nutrition, she also uses apps, but sometimes she lacks variety in workouts that can be done anywhere and without equipment, as it takes up a lot of space in her suitcase.
-
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+To manage workouts and nutrition, Ana uses apps, but sometimes she lacks variety in workouts that can be done anywhere and without equipment, as it takes up a lot of space in her suitcase. While traveling, she meets people who are also interested in sports, and she would like to stay connected with them. It is important for her to continue training together and communicating in the app, even if they are in different countries. 
 
 ## Motivation  
-*"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+*I need workouts that travel with me — no equipment, with the ability to train with friends wherever we are, allowing me to feel healthy and full of energy."*   
