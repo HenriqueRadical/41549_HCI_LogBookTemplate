@@ -73,19 +73,25 @@
 
 ## Scenario 2-1: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
 
-## Scenario 3-1: António gets a new client, and creates them a new personal workout (EXAMPLE, PERCHANCE FINAL)
+## Scenario 3-1: António adds a new client in the app
 
-After the first day of training with his new client, António asks them if they have [an app] on their phone. The client confirms they have it, and so he asks them to **add him as a dedicated personal trainer** on it.
+After the first day of training with a new client, António asks them if they have [an app] on their phone. The client confirms they have it, and so he asks them to **add him as a dedicated personal trainer** on it.
 
 António starts by opening the app, and **selecting the "socials" option**. Upon opening it, besides the list of all his current clients, he selects the **option to check for "student" requests**, and notices his client already sent him a request. He selects the "green accept" option next to their name, and the app sends him back to the client list, with the newly added client on the top.
 
-He decides to immediately assign his new client a simple workout for the next couple of weeks, seeing as this client will be travelling for those weeks. By selecting the client in the list, he can **select the "organize workouts" option**, and after selecting Monday, Wednesday, and Friday, as the days for the workout, he is given the **option to either use one of his already made workouts, or create a brand new one**. Seeing as this client is much older than most, and their training is going to be different than usual, he **choose the option to "create a new workout" from scratch**.
+By doing this, António hopes to be able to keep a recording of this particular clients **body stats**, alongside any defined **workout schedules** and have a **dedicated way to communicate** with them about fitness.
+
+## Scenario 3-2: António creates a new personal workout for a client
+
+After a day of training with one of his clients, they tell him that they are going on vacation for a couple of weeks and that they would like a recommendation for exercises to do at the end of an afternoon.
+
+He decides to assign his client a simple workout for the next couple of weeks, starting by opening [the app] on his phone, going to the "socials" tab. By selecting the client in his list clients, he can **select the "organize workouts" option**, and after selecting Monday, Wednesday, and Friday, as the days for the workout, he is given the **option to either use one of his already made workouts, or create a brand new one**. Seeing as this client is much older than most, and their training is different than usual, he **chooses the option to "create a new workout" from scratch**.
 
 He selects exercises that he knows target mostly the legs and the core, as well as some specific cardio exercises, including the number of repetitions/duration of each exercise, and a small "interval of 1 minute" in between each exercise. He finishes by pressing "conclude workout".
 
-After arriving home, he remembers that his new client seemed pretty inexperient, so he decides to record a video of himself preforming the full workout, as a means of helping them. After recording, he reopens the app, goes back to "socials", chooses his client, and by **selecting the "edit workout" option**, he uploads his recording and appends it to the workout.
+After arriving home, he remembers that the client was still pretty inexperient, so he decides to record a video of himself performing the full workout, as a means of helping them. After recording, he reopens the app, goes back to "socials", chooses his client, and by **selecting the "edit workout" option**, he uploads his recording and appends it to the workout.
 
-After 2 weeks, the client returns from their trip, and thanks him for the workout he sent, before returning to their training.
+After 2 weeks, the client returns from their trip, and thanks him for the workout he sent, before returning to their regular training.
 
 ---
 
