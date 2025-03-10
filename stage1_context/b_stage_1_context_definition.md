@@ -131,7 +131,9 @@ Task: **Create and personalize a workout**
 | 4      |  Choose the exercises to add to workout | Yes |   The list of exercises have an plus icon on right to add the exercise   | No | To create a workout it needs at least 3 exercises | | Add a progress bar to show progress of creating a workout | |
 | 5    | Save the workout | Yes | There's a blue "Done" button | Yes | Goes back to the "Custom Made" section showing the workout just created | | | |
 
+## B.1c. Overall Analysis
 
+[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
 
 ---
 
