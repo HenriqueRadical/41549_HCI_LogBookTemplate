@@ -149,8 +149,8 @@ Task: **Create and personalize a workout**
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 26-02-2025 | Francisco/ student      | Does most things on paper and would require a complete solution | [📄 Notes](interviews/interview-Francisco.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 26-02-2025 | Francisco / student      | Does most things on paper and would require a complete solution | [📄 Francisco](interviews/interview-Francisco.md) |     |
+| 27-02-2025 | Bernardo Lázaros / student |                                                                 | [📄 Bernardo](interviews/interview-Francisco.md)                             |     |
 
 ### Common Themes & Patterns 
 
