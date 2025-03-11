@@ -242,8 +242,7 @@ The questions considered during the interview focused on understanding the user'
 	- Issue 1
 	- Issue 2
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Fitness apps for tracking workouts or nutrition. 
 - **Desired Features / Solutions:** 
 	- Feature 1
 	- Feature 2
