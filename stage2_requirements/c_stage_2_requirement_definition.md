@@ -72,7 +72,7 @@ After the workout is completed, Ana **ends the session**.
 
 ## Scenario 2-1: Rafael wants to do one of his favorite workouts
 
-When the workday finishes Rafael wishes to do a chest workout, having already **marked as one favorite workout** in his app. The Rafael proceeds with opening the app, and **selecting the "workouts" panel**, where there are displayed all the workouts available in the app. In this panel, he goes to the area of **favorites workouts** and selects the chest workout. Therefore appears **information about the workout** and **selects the option to start the workout**.  
+When the workday finishes, Rafael **receives a reminder to work out** on the phone, today he wishes to do a chest workout, having already **marked it as one favorite workout** in his app. The Rafael proceeds with opening the app, and **selecting the "workouts" panel**, where there are displayed all the workouts available in the app. In this panel, he goes to the area of **favorites workouts** and selects the chest workout. Therefore appears **information about the workout** and **selects the option to start the workout**.  
 
 After the workout, Rafael goes to the app and **sees the overall stats**, which show him the duration of the workout and the calories burned. Rafael intrigued about his progress this week, goes **to the panel "stats"** where all his progress is displayed, selecting a period, in this case, **selecting this week**.
 
