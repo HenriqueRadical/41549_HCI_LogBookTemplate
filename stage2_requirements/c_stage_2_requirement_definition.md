@@ -69,7 +69,17 @@
 
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
-## Scenario 1-1: Ana improvises a 10 minute workout (EXAMPLE, MAYBE FINAL)
+## Scenario 1-1: Ana wants to do a 10-minute workout at home and invites her friends to join her for a virtual session.
+
+In the evening, while in her apartment, Ana decides to do a 10-minute workout. She opens the fitness app on her phone and in the **"Workouts"** section, she **selects a workout** that she likes and requires no equipment.
+
+Then, Ana decides to **invite her friends to a joint workout**. In the **"Messages"** section, she finds her friends and writes them a message suggesting they train together.
+
+After her friends confirm their participation, Ana **starts the selected workout, inviting her friends to join**. The workout begins once all participants have confirmed their readiness.
+
+During the workout, Ana and her friends **follow the instructions on the screen**. Each participant sees the workout video and can **communicate via voice chat** to maintain communication and motivation during the session.
+
+After the workout is completed, Ana **ends the session**.
 
 ## Scenario 2-1: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
 
