@@ -168,7 +168,7 @@ The panel of stats is accessed more quickly in a competing app.
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+The approach used to communicate with users involved conducting interviews with a diverse group of people for whom sports are an important part of their lives, as well as with those who actively use or are interested in fitness apps. The goal of the interviews was to understand their needs, preferences, and challenges when using fitness apps, as well as to gather information about their expectations.What were the questions considered?] 
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
