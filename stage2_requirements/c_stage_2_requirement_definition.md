@@ -116,32 +116,32 @@ After 2 weeks, the client returns from their trip, and thanks him for the workou
 
 ## C.1. Functional requirements
 
-## R1 - 
+**R1 -** The system must allow the user to consolidate a variety of exercises into a single, easily accessible group (workout);
 
-## R2 - 
+**R2 -** The system must provide a brief and understandable description of each available exercise;
 
-## R3 - 
+**R3 -** The user should be able to change their profile stats, including name, picture, weight, height and bio;
 
-## R4 - 
+**R4 -** When atributting a workout to another user, the option to create a new workout should be given, alongside the option to select one that has already been made;
 
-## R5 - 
+**R5 -** 
 
-## R6 - 
+**R6 -** 
 
 
 ## C.2. Non-functional requirements
 
-## R1 - 
+**R1 -** Downloading a new workout should not take more than 3 seconds;
 
-## R2 - 
+**R2 -** The most commonly utilised options, such as accessing created workouts and checking messages, should be more easily visible, and more readily available;
 
-## R3 - 
+**R3 -** A user should receive a message or any other notification from another user in less than 3 seconds;
 
-## R4 - 
+**R4 -** 
 
-## R5 - 
+**R5 -** 
 
-## R6 - 
+**R6 -** 
 
 
 ---
