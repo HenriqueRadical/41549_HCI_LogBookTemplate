@@ -238,16 +238,31 @@ The questions considered during the interview focused on understanding the user'
 
 ### Common Themes & Patterns 
 
-- **Recurring Problems:** 
+- **Recurring Problems:**
+  
 	- **Difficulties in Maintaining a Consistent Workout Rhythm:** Many users struggle to maintain a regular workout schedule due to a lack of motivation, limited time, or an unorganized training plan.
 	- **Difficulty in Tracking and Managing Workouts**: Users find it challenging to keep track of their workouts and exercise routines.
-- **Frequently Used Tools:** 
+- **Frequently Used Tools:**
+  
 	- **Fitness Apps**: Many users are relying on fitness apps like Hevy, FatSecret, or gym-specific apps to track workouts, nutrition, and progress.
  	- **Manual Tracking**: Some users track their progress without any tools.
 - **Desired Features / Solutions:**
-- 
-	- Feature 1
-	- Feature 2
+  
+	- **Personalized workout plans**: Users want the ability to choose training programs based on their fitness level, goals, and availability.
+
+	- **Progress tracking and analytics**: The ability to monitor workout duration, intensity, calories burned, and compare progress over time.
+
+	- **Reminders and notifications**: Users need alerts to stay on track and not forget their workouts.
+
+	- **Exercise demonstration videos**: High-quality video tutorials showcasing proper form and techniques for different exercises.
+
+	- **Workout planning and editing**: Users want to customize their workout routines, adjust exercise durations, and set rest intervals.
+
+	- **Nutrition guidance**: Integration of meal plans and dietary recommendations.
+
+    - **Timer for workouts**: A built-in timer for interval training and rest periods between sets.
+
+    - **Health tips**: Short, practical advice on exercise, nutrition, and wellness when opening the app.
 - --- 
 
 
