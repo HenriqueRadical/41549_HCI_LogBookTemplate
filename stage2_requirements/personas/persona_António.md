@@ -19,10 +19,10 @@ At the end of the afternoon, after the activity at the gym has died down and cli
 Despite living comfortably, he understands his gym lacks in comparison to the others he visited while looking for a job. He wants to improve not only the life of his clients, but the life of the gym as well. He wants it not only because it could increase the number of clients, but because he also wants to repay the gym that helped him figuring out his dream when he was younger. He mainly hopes to find a way to properly advertise the establishment, and convince people to give the gym a chance through his tutoring.
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]
 He has a hard time keeping track of his current clients, as well as their stats and workout regimens. He also has no means of properly communicating with his clients at a distance about upcoming sessions and workout plans.
 
 
 ## Motivation  
-*"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+"I barely get any free time outside of workout sessions, be it my clients' or even my own. I want to be as efficient as possible in the assignment of training routines for my clients, to show my, and my gym's, reliability. If only I were to find a simple tool to keep track of my work related affairs"
+António essentially wants a way to keep his clients' routines registered and easily accessible, in order to provide a better service, and eventually deepen his business.
+
