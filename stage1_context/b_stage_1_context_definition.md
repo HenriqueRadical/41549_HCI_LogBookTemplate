@@ -168,7 +168,35 @@ The panel of stats is accessed more quickly in a competing app.
 
 ## B.2a. Method
 
-The approach used to communicate with users involved conducting interviews with a diverse group of people for whom sports are an important part of their lives, as well as with those who actively use or are interested in fitness apps. The goal of the interviews was to understand their needs, preferences, and challenges when using fitness apps, as well as to gather information about their expectations.What were the questions considered?] 
+The approach used to communicate with users involved conducting interviews with a diverse group of people for whom sports are an important part of their lives, as well as with those who actively use or are interested in fitness apps. The goal of the interviews was to understand their needs, preferences, and challenges when using fitness apps, as well as to gather information about their expectations. 
+The questions considered during the interview focused on understanding the user's daily routine, sports habits, goals, and motivation for working out, as well as their expectations from fitness apps. The questions were grouped into several categories: general questions about physical activities, goals and motivation, features and usability of fitness apps, personalization and analytics, and social integration within the app. Questions:
+**Main Questions**
+1.Can you describe your typical day?
+2.Do you engage in any sports or physical activities? If not, would you like to start in the future?
+3.What types of sports or physical activities do you prefer? Why?
+4.Do you use any apps or devices for your workouts? If yes, which ones?
+
+**Questions About Goals and Motivation**
+5.What goals do you set for yourself when engaging in sports (weight loss, muscle gain, endurance, etc.)?
+6.What motivates you to continue working out? / What motivates you to start training?
+7.What obstacles prevent you from achieving your fitness goals?
+
+**Questions About Features and Usability**
+8.What features are most important to you in a fitness app?
+9.Are there any features you would like to see in fitness apps that you haven't found yet? / What kind of support or tips would you like to receive in an app?
+10.What do you like about existing fitness apps?
+11.What frustrates or annoys you about existing fitness apps?
+12.What would an ideal fitness app look like for you?
+
+**Questions About Personalization and Analytics**
+13.How important are personalized recommendations and workouts to you?
+14.How important is progress tracking and achievement monitoring for you?
+15.What kind of information or analytics about your workouts would you like to see in an app?
+
+**Questions About Social Integration**
+16.How important are social features, such as sharing achievements or competing with friends?
+17.What role does the community play in your motivation to work out?
+18.Do you have any suggestions for improving interaction with other users in fitness apps? 
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
