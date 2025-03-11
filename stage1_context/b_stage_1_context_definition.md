@@ -157,9 +157,8 @@ A option to play music from spotify/youtube music or from your own device songs.
 
 | Threats |
 | ------- |
-The competitor offers more trackers like how much water the user drank or how many steps taken.
-The panel of stats is accessed more quickly in a competing app.
-
+In the competitor app, the stats are accessed more quickly and offers more trackers like how much water the user drank or how many steps taken.
+The competitor has more workouts available in the free version.
 ---
 
 # B.2. Users
