@@ -33,7 +33,7 @@ Sasha would like to see information about changes in weight, body fat percentage
 --- 
 ## Social Features and Interaction with Other Users
 
-Social features, such as the ability to share achievements or compete with friends, are not important to him at all.
+Social features, such as the ability to share achievements or compete with friends, are not important to her at all.
 
 
 
