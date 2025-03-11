@@ -46,9 +46,6 @@ making a physical demonstration of the exercises
 - App functionalities behind price gates
 - Lack of someone that can give a visual feeling of the end goal of the exercise (trainer with a slim body, abs...)
 
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
-
 --- 
 ## Additional Observations 
 The user seemed to take fitness more as a hobby-like activity, than a set in stone
