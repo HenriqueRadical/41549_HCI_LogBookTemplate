@@ -239,11 +239,13 @@ The questions considered during the interview focused on understanding the user'
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- **Difficulties in Maintaining a Consistent Workout Rhythm:** Many users struggle to maintain a regular workout schedule due to a lack of motivation, limited time, or an unorganized training plan.
+	- **Difficulty in Tracking and Managing Workouts**: Users find it challenging to keep track of their workouts and exercise routines.
 - **Frequently Used Tools:** 
-	- Fitness apps for tracking workouts or nutrition(managing gym memberships through a gym network app, step counting, monitoring progress over time,сalorie counting, exercise logging) . 
-- **Desired Features / Solutions:** 
+	- **Fitness Apps**: Many users are relying on fitness apps like Hevy, FatSecret, or gym-specific apps to track workouts, nutrition, and progress.
+ 	- **Manual Tracking**: Some users track their progress without any tools.
+- **Desired Features / Solutions:**
+- 
 	- Feature 1
 	- Feature 2
 - --- 
