@@ -70,7 +70,7 @@ During the workout, Ana and her friends **follow the instructions on the screen*
 
 After the workout is completed, Ana **ends the session**.
 
-## Scenario 2-1: Rafael wants to do one of his favorite workouts (EXAMPLE, POSSIBLY FINAL)
+## Scenario 2-1: Rafael wants to do one of his favorite workouts
 
 When the workday finishes Rafael wishes to do a chest workout, having already **marked as one favorite workout** in his app. The Rafael proceeds with opening the app, and **selecting the "workouts" panel**, where there are displayed all the workouts available in the app. In this panel, he goes to the area of **favorites workouts** and selects the chest workout. Therefore appears **information about the workout** and **selects the option to start the workout**.  
 
