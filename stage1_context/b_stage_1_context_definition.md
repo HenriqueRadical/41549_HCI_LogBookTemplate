@@ -242,7 +242,7 @@ The questions considered during the interview focused on understanding the user'
 	- Issue 1
 	- Issue 2
 - **Frequently Used Tools:** 
-	- Fitness apps for tracking workouts or nutrition. 
+	- Fitness apps for tracking workouts or nutrition(managing gym memberships through a gym network app, step counting, monitoring progress over time,сalorie counting, exercise logging) . 
 - **Desired Features / Solutions:** 
 	- Feature 1
 	- Feature 2
