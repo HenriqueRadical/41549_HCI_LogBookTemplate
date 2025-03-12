@@ -84,6 +84,10 @@ António starts by opening the app, and **selecting the "socials" option**. Upon
 
 By doing this, António hopes to be able to keep a recording of this particular clients **body stats**, alongside any defined **workout schedules** and have a **dedicated way to communicate** with them about fitness.
 
+## Scenario 2-2: Rafael wishes to create a workout
+
+Rafael finishes watching a video about a specific training style and decides to try it tomorrow, saving a workout based on that. So, he opens the app and **goes to the panel workouts**, **selecting the option to create a new workout**. Emerges a list of exercises, where Rafael **adds which exercises** had been mentioned in the video, after inserting all of the exercises, he **clicks on the option to save**, saving it by the name "Workout for Tuesdays". 
+
 ## Scenario 3-2: António creates a new personal workout for a client
 
 After a day of training with one of his clients, they tell him that they are going on vacation for a couple of weeks and that they would like a recommendation for exercises to do at the end of an afternoon.
