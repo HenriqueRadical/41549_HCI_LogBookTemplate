@@ -49,7 +49,7 @@
 | **Occupation**   | Personal trainer                           |
 | **Location**     | Leiria, Portugal                               |
 | **Goals**        | Bring more people to his gym, and help his clients with workout planning           |
-| **Pain Points**  | Hard to find people outside of the gym willing to join, with difficulty finding means to advertise it             |
+| **Pain Points**  | Hard to keep proper track of his clients' info, and communicate with them about their work            |
 | **Motivation**   | Get more clients, and help the business that he cares about                |
 | **Full Profile** | [📄 Read More](personas/persona_António.md) |
 
