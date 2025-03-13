@@ -56,7 +56,6 @@ The consensus was done by collecting the issues found by the 4 experts and analy
 | **Issue**       | **Expert 1** | **Expert 2** | **Expert 3** | **Expert 4**| **Overall** | **Recommendations** |
 | --------------- | ------------ | ------------ | ------------ | ----------- | ----------- | ------------------- |
 | It was unclear why a workout started downloading a few days after installing the app. | 3 | 2 | 3 | 1 | 2 | Add a notification or explanatory message before the download starts, clarifying the reason (e.g., workout program update, automatic synchronization, etc.). |
-When downloading a workout, I cant tell how long the download will take | 1 | 1 | 1 | 1 | 1 | Progress Bar for download.|
 | When creating a workout, there is no progress to show how many exercises needed to create a workout | 1 | 2 | 1 | 1 | 1 | Progress bar on top of screen, that shows progress with the exercises added |
 | When choosing which days to work out, the buttons are by default all selected, which makes it confusing and easy to instead deselect the buttons you think you're selecting | 1 | 2 | 2 | 3 | 2 |Make it clearer which buttons are selected by having a border around them |
 | The names and instructions of some exercises differ in Brazilian Portuguese and European Portuguese.| 3 | 2 | 1 | 1 | 2 | Review exercise descriptions with native speakers and consider adaptations for European Portuguese. |
