@@ -76,6 +76,10 @@ When the workday finishes, Rafael **receives a reminder to work out** on the pho
 
 After the workout, Rafael goes to the app and **sees the overall stats**, which show him the duration of the workout and the calories burned. Rafael intrigued about his progress this week, goes **to the panel "stats"** where all his progress is displayed, selecting a period, in this case, **selecting this week**.
 
+## Scenario 2-2: Rafael wishes to create a workout
+
+Rafael finishes watching a video about a specific training style and decides to try it tomorrow, saving a workout based on that. So, he opens the app and **goes to the panel workouts**, **selecting the option to create a new workout**. Emerges a list of exercises, where Rafael **adds which exercises** had been mentioned in the video, after inserting all of the exercises, he **clicks on the option to save**, saving it by the name "Workout for Tuesdays". 
+
 ## Scenario 3-1: António adds a new client in the app
 
 After the first day of training with a new client, António asks them if they have [an app] on their phone. The client confirms they have it, and so he asks them to **add him as a dedicated personal trainer** on it.
@@ -83,10 +87,6 @@ After the first day of training with a new client, António asks them if they ha
 António starts by opening the app, and **selecting the "socials" option**. Upon opening it, besides the list of all his current clients, he selects the **option to check for "student" requests**, and notices his client already sent him a request. He selects the "green accept" option next to their name, and the app sends him back to the client list, with the newly added client on the top.
 
 By doing this, António hopes to be able to keep a recording of this particular clients **body stats**, alongside any defined **workout schedules** and have a **dedicated way to communicate** with them about fitness.
-
-## Scenario 2-2: Rafael wishes to create a workout
-
-Rafael finishes watching a video about a specific training style and decides to try it tomorrow, saving a workout based on that. So, he opens the app and **goes to the panel workouts**, **selecting the option to create a new workout**. Emerges a list of exercises, where Rafael **adds which exercises** had been mentioned in the video, after inserting all of the exercises, he **clicks on the option to save**, saving it by the name "Workout for Tuesdays". 
 
 ## Scenario 3-2: António creates a new personal workout for a client
 
