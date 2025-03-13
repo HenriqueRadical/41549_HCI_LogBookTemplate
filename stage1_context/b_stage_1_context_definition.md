@@ -139,7 +139,7 @@ Task: **Create and personalize a workout**
 
 |   Strengths   |
 | ------------ |
-Offers simple workouts, clear and without eqquipment.
+Offers simple workouts, clear and without equipment.
 The app has intuitive and easy to understand user interface.
 This app is also available for smart watches.
 The idea of Gamification is that feeling like completing a workout is a quest game, helps build a habit.
