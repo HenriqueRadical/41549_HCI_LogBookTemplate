@@ -113,11 +113,11 @@ After 2 weeks, the client returns from their trip, and thanks him for the workou
 
 **R3 -** The user should be able to change their profile stats, including name, picture, weight, height and bio;
 
-**R4 -** When atributting a workout to another user, the option to create a new workout should be given, alongside the option to select one that has already been made;
+**R4 -** The system must provide the user with pre-made workouts, based on their profile attributes;
 
 **R5 -** The user should be able to save certain workouts as favorites, accessing them easily in a designated "favorites" tab;
 
-**R6 -** The system must allow a user to share a workout with their friends, and perform said workout with them in real time
+**R6 -** The user should be able to see and edit their workouts for the week
 
 
 ## C.2. Non-functional requirements
