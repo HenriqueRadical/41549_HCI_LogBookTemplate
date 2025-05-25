@@ -43,6 +43,8 @@
 2) Suggestion: Allow changing the day on the edit page of a scheduled exercise.
 
 ### Task 3:
+1) Some people did not understand how the rest timer works.
+2) 
 
 ### Task 4:
 
