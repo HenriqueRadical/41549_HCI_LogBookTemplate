@@ -6,11 +6,7 @@
 
 # Prototype
 
-Video showing the prototype
-
-<video width="640" height="360" controls>
-  <source src="VideoPrototype.mp4" type="video/mp4">
-</video>
+Video showing the prototype: [Video Prototype](VideoPrototype.mp4)
 
 # E.X. User Evaluation
 
