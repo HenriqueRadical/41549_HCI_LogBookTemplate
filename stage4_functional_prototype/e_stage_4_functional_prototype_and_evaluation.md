@@ -20,11 +20,11 @@ Video showing the prototype:
 2. Schedule a “Full Cardio Workout” for Monday at 5:30 PM, with notifications enabled.
 3. Complete the “Full Body Workout”, performing all exercises but skipping one set of “Jumping Jacks”.
 4. Record your new weight (70 kg) and interpret the updated data.
-5. Create a workout named “Chest Workout” with the following exercises:
-
-   1. Push Ups – 2 Sets – 12 Reps – 1:00 Rest
-   2. Incline Dumbbell Press – 3 Sets – 15 Reps – 1:00 Rest
-   3. Bench Press – 3 Sets – 10 Reps – 1:30 Rest
+5. Create a workout named “Chest Workout” with the following exercises: 
+###   
+    -> Push Ups                 2 sets      12 reps     1:00 Rest
+    -> Incline Dumbell Press    3 sets      15 reps     1:00 Rest
+    -> Bench Press              3 sets      10 reps     1:30 Rest
        
 Each task was allocated **2 minutes** for completion. 😊
 
