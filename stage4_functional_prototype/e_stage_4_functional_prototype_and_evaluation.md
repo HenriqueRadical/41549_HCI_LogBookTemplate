@@ -6,7 +6,9 @@
 
 # Prototype
 
-Video showing the prototype: [Video Prototype](VideoPrototype.mp4)
+Video showing the prototype: 
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PctNfvzuOdw)
 
 # E.X. User Evaluation
 
