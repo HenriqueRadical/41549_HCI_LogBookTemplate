@@ -44,11 +44,16 @@
 
 ### Task 3:
 1) Some people did not understand how the rest timer works.
-2) 
+2) Some people didn’t properly use the checkmark to mark the workout as completed.
 
 ### Task 4:
+1) Some people clicked on settings instead of making changes in the statistics section.
+2) Many people suggested making the weight change only in the settings.
+3) One person suggested using a scroll wheel for changing the weight.
 
 ### Task 5:
+1) One person didn’t understand the placement of the window for adding a new exercise.
+2) It was suggested to add the 'Create workout' label next to the + button.
 
  
 
