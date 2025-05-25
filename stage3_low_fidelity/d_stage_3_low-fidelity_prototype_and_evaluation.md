@@ -33,6 +33,24 @@
 ![taskNº5-2](./images/20250505_203459.jpg)
 ## D.2. Prototype Evaluation
 
+## Observations and suggestions for improvement:
+### Task 1:
+1) Some people did not select the weight and height units and did not click "Finish" at the end of the profile creation.
+2) The way to choose the goal was not very intuitive (Lack of a dropdown-style arrow when selecting the goals).
+
+### Task 2:
+1) At first, people didn’t realize they were supposed to go to the "Calendar" located in the bottom bar (they thought they were supposed to go to "Workouts"), but later they found it intuitive.
+2) Suggestion: Allow changing the day on the edit page of a scheduled exercise.
+
+### Task 3:
+
+### Task 4:
+
+### Task 5:
+
+ 
+
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 
