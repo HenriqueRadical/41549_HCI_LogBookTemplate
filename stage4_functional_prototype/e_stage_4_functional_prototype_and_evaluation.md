@@ -139,7 +139,47 @@ Each task was allocated **2 minutes** for completion. 😊
 
 # E.X. User Evaluation
 
+### Questionnaire used: (https://docs.google.com/forms/d/1H8QAkhdtPN7zaycgIZ3NPrZoatHgb1QcJ-GEDqyLtaI/edit)
 
+### Task 1:
+
+**Average rating:** 5
+
+**Notes:**
+* I think everything was intuitive. Progress was easy to follow, and the necessary data was provided.
+* Entering the date of birth required too much scrolling to reach 1975.
+
+### Task 2:
+
+**Average rating:** 4.5
+
+**Notes:**
+* When selecting the time, the default clock that appears is a bit overwhelming.
+* There is no scheduling confirmation.
+
+### Task 3:
+
+**Average rating:** 3.67
+
+**Notes:**
+* I didn’t complete the task correctly. I explained to the observer my idea of adding fewer sets at the beginning.
+* They could add an option to skip the rest time, maybe. Even though I wasn’t doing the workout, I think I spent too much time waiting for it to finish.
+* The icons are a bit confusing.
+* Confusion between play, pause, next, and previous.
+
+### Task 4:
+
+**Average rating:** 4.33
+
+**Notes:**
+* I was expecting a save button.
+
+### Task 5:
+
+**Average rating:** 4.83
+
+**Notes:**
+* Maybe default values.
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
