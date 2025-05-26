@@ -33,6 +33,8 @@ Create a workout named “Chest Workout” with the following exercises:
        
 Each task was allocated **2 minutes** for completion. 😊
 
+The test was conducted with six participants.
+
 # E.X. Observer Evaluation
 
 ## Tests
