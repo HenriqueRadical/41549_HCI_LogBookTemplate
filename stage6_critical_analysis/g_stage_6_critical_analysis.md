@@ -6,6 +6,23 @@
 
 Eu, Ivan Horoshko não fiz nada, palavras da Maria-Aleksandra.
 Andei a passear e comer Gelados para não atirar me da ponte, mas para a Maria isso é mau.
+## Future work:
+
+1. Add a database.
+2. Implement the remaining features for other personas (social, personalized tips).
+3. Improve the workout execution part, specifically how workout progress is displayed.
+4. Add the possibility to schedule the workout from the Workout Details.
+5. Added the possibility to change the day when editing a scheduled workout.
+6. Develop a version of the app for smartwatches.
+
+## Group Assessment:
+
+###   
+    -> Henrique Reveles               25%     
+    -> Maria-Aleksandra Korjenevskaya 25%      
+    -> Diogo Nascimento               25% 
+    -> Ivan Horoshko                  25%
+
 
 The tools used for this job were React Native with Expo Go, a framework.
 
