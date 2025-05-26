@@ -9,7 +9,9 @@
 1. Add a database.
 2. Implement the remaining features for other personas (social, personalized tips).
 3. Improve the workout execution part, specifically how workout progress is displayed.
-4. Develop a version of the app for smartwatches.
+4. Add the possibility to schedule the workout from the Workout Details.
+5. Added the possibility to change the day when editing a scheduled workout.
+6. Develop a version of the app for smartwatches.
 
 ## Group Assessment:
 
