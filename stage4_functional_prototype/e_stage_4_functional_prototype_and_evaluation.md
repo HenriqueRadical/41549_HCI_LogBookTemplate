@@ -6,7 +6,7 @@
 
 # Prototype
 
-## Tool used: React Native
+## Tool used: React Native with Expo Go, a framework.
 
 Video showing the prototype: 
 
