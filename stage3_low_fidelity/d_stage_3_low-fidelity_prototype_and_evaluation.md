@@ -34,6 +34,7 @@
 ## D.2. Prototype Evaluation
 
 ## Observations and suggestions for improvement:
+The test was conducted with five participants.
 ### Task 1:
 1) Some people did not select the weight and height units and did not click "Finish" at the end of the profile creation.
 2) The way to choose the goal was not very intuitive (Lack of a dropdown-style arrow when selecting the goals).
