@@ -13,11 +13,12 @@
 
 ## Group Assessment:
 
-Henrique Reveles 25%
-Maria-Aleksandra Korjenevskaya 25%
-Diogo Nascimento 25% 
-Ivan Horoshko 25% 
-![image](https://github.com/user-attachments/assets/5636c52d-ea0b-4068-b052-8d65c2ba97a1)
+### 
+-> Henrique Reveles               25%
+-> Maria-Aleksandra Korjenevskaya 25%
+-> Diogo Nascimento               25% 
+-> Ivan Horoshko                  25% 
+
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
