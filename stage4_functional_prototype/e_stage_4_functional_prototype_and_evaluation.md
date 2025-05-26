@@ -10,8 +10,6 @@ Video showing the prototype:
 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PctNfvzuOdw)
 
-# E.X. User Evaluation
-
 # Prototype Testing Information
 
 **Tasks**
@@ -27,6 +25,11 @@ Video showing the prototype:
     -> Bench Press              3 sets      10 reps     1:30 Rest
        
 Each task was allocated **2 minutes** for completion. 😊
+
+# E.X. Observer Evaluation
+
+
+# E.X. User Evaluation
 
 
 
