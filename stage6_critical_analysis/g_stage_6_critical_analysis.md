@@ -4,8 +4,6 @@
 
 # Self-Evaluation and Workload
 
-Eu, Ivan Horoshko não fiz nada, palavras da Maria-Aleksandra.
-Andei a passear e comer Gelados para não atirar me da ponte, mas para a Maria isso é mau.
 ## Future work:
 
 1. Add a database.
