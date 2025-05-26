@@ -181,6 +181,40 @@ Each task was allocated **2 minutes** for completion. 😊
 **Notes:**
 * Maybe default values.
 
+##  System Usability Scale (SUS):
+
+Includes 10 questions with five response options 
+
+▪ Questions 1, 3, 5, 7, and 9 are positively-oriented
+
+▪ Questions 2, 4, 6, 8, and 10 are negatively-oriented questions
+
+### 1. I think that I would like to use this system frequently.
+2 * 1 + 3 * 5 = 17
+### 2. I found the system unnecessarily complex.
+4 * 5 + 3 * 1 = 23
+### 3. I thought the system was easy to use.
+3 * 2 + 4 * 4 = 22
+### 4. I think that I would need the support of a technical person to be able to use this system.
+4 * 6 = 24
+### 5. I found the varios funtions in this system were well integrated.
+3 * 3 + 4 * 3 = 21
+### 6. I thought there was too much inconsistency in this system.
+4 * 4 + 3 * 2 = 22
+### 7. I would imagine that most people would learn to use this system very quickly.
+3 * 1 + 4 * 5 = 23
+### 8. I found the system very cumbersome to use.
+4 * 5 + 3 * 1 = 23
+### 9. I felt very confident using the system.
+3 * 1 + 4 * 5 = 23
+### 10. I needed to learn a lot of things before I could get going with this system.
+6 * 4 = 24
+
+(17 + 23 * 4 + 22 * 2 + 24 * 2 + 21)/6 * 2.5 = 92.5
+
+
+
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 
