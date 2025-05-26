@@ -13,11 +13,11 @@
 
 ## Group Assessment:
 
-### 
--> Henrique Reveles               25%
--> Maria-Aleksandra Korjenevskaya 25%
--> Diogo Nascimento               25% 
--> Ivan Horoshko                  25% 
+###   
+    -> Henrique Reveles               25%     
+    -> Maria-Aleksandra Korjenevskaya 25%      
+    -> Diogo Nascimento               25% 
+    -> Ivan Horoshko                  25%
 
 
 ---
