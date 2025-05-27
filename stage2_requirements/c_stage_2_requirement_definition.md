@@ -96,9 +96,6 @@ Rafael finishes watching a video about a specific training style and decides to 
 
 **R4 -** Workouts shared between two users should display the current exercise at the same time for both users
 
-**R5 -** 
-
-**R6 -** 
 
 
 ---
