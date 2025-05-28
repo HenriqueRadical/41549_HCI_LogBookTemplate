@@ -138,6 +138,15 @@ The test was conducted with six participants.
 * In task 5, tried to set the workout name first.
 * Did not understand the part about **rest time** between exercises.
 
+### **Test Nº 6**
+
+| Tasks | Completed? | Correctly? | Time  | No. of Errors | Was Lost? | Asked for Help? | Evaluation | Video Time |
+| ----- | ---------- | ---------- | ----- | ------------- | --------- | --------------- | ---------- | ---------- |
+| 1     | Yes        | Yes        |  | 0             | No        | No             | 4          |       |
+| 2     | Yes        | Yes        |  | 2             | No      | No              | 3          |       |
+| 3     | Yes        | Yes        |  | 0             | No       | No              | 3          |       |
+| 4     | Yes        | Yes        |  | 1             | No        | No              | 5          |       |
+| 5     | Yes        | Yes        | | 0             | No       | No              | 4          |       |
 
 
 
